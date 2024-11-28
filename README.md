@@ -1,4 +1,4 @@
-# Delphi_AMQP
+# Lazarus_AMQP
 AMQP protocol based on now massively fragmented https://github.com/delphiripper/comotobo
 
 I was looking for full source AMQP for Delphi and after a ton of digging found one that seemed to be close to functional.  Then I found there were 13 forks and multiple old PR's.
